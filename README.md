@@ -17,7 +17,6 @@ Sou um **técnico em informática surdo em formação**, especializado em **prog
   <img align="center" alt="Elisson-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-
 ---
 
 <div> 
